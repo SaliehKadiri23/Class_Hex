@@ -1,7 +1,7 @@
 import React from 'react'
-import Logo from '../../components/Logo'
-import Socials from '../../Components/Socials';
-import Contact from '../../Components/Contact';
+import Logo from "../../Components/Logo.jsx"
+import Socials from '../../Components/Socials.jsx';
+import Contact from '../../Components/Contact.jsx';
 import { FaAngleDoubleRight } from "react-icons/fa";
 
 const Footer = () => {
