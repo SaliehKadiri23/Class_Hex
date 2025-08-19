@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Logo from "../../components/Logo";
+import Logo from "../../Components/Logo.jsx";
 import { RiMenu3Fill } from "react-icons/ri";
 import { IoCloseSharp } from "react-icons/io5";
 import Socials from "../../Components/Socials";
