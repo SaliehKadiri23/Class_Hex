@@ -94,7 +94,7 @@ const HeroSection = () => {
           <div className="hero-orbit-x-container h-[100%] flex flex-col justify-center items-center relative mr-7 ">
            
 
-           <img src={University} alt="" />
+           <img src={University} alt="" className="mb-[-7em] sm:scale-110 md:scale-140 lg:scale-150" />
             <img            />
             {badges.map((badge, i) => (
               <div
