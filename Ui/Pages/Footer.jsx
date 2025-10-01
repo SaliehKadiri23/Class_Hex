@@ -26,19 +26,19 @@ const Footer = () => {
               <h2 className="font-bold mb-1 text-3xl md:text-2xl transition-all duration-300 hover:scale-110 hover:text-blue-700">
                 Useful Links
               </h2>
-              <p className="font-semibold text-lg flex items-center  transition-all duration-300 hover:scale-110 hover:text-blue-700">
+              <a href="/" className="font-semibold text-lg flex items-center  transition-all duration-300 hover:scale-110 hover:text-blue-700">
                 <FaAngleDoubleRight className="mr-2" />
                 Home
-              </p>
-              <p className="font-semibold text-lg flex items-center  transition-all duration-300 hover:scale-110 hover:text-blue-700">
+              </a>
+              <a href="/about" className="font-semibold text-lg flex items-center  transition-all duration-300 hover:scale-110 hover:text-blue-700">
                 <FaAngleDoubleRight className="mr-2" /> About Us
-              </p>
-              <p className="font-semibold text-lg flex items-center  transition-all duration-300 hover:scale-110 hover:text-blue-700">
+              </a>
+              <a href="/courses" className="font-semibold text-lg flex items-center  transition-all duration-300 hover:scale-110 hover:text-blue-700">
                 <FaAngleDoubleRight className="mr-2" /> Courses
-              </p>
-              <p className="font-semibold text-lg flex items-center  transition-all duration-300 hover:scale-110 hover:text-blue-700">
+              </a>
+              <a href="/pricing" className="font-semibold text-lg flex items-center  transition-all duration-300 hover:scale-110 hover:text-blue-700">
                 <FaAngleDoubleRight className="mr-2" /> Pricing
-              </p>
+              </a>
             </div>
           </div>
         </div>
